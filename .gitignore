@@ -1,3 +1,14 @@
+# Yoga Videos and subtitle filesyoga
+yoga_library/
+*.m4a
+*.webm
+*.mkv:
+*.en.vtt
+*.vtt:
+
+# Pycharm prject files
+.idea/:
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
